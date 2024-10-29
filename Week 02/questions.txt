@@ -1,0 +1,20 @@
+Quick Questions 
+
+1. goals, laps
+2. wkly_wrk, mnthly_wrk
+3. 123_abc, 21products
+4. variables should be written meaningfully and cannot start with numbers.
+5. Constant is a variable that does not change. For example, TAX_RATE = 0.5, means that there is 50% tax rate. We would use it to get tax rate from the amount of money.
+6. Naming convention for constants is that all letters in constant must be written in capital letters.
+
+Logic Exercise
+
+3
+
+Reflection
+
+1. My current career goal is to found a software engineering agency and help businesses grow in the digital world.
+I see myself leading the company to help businesses grow or leverage my skills into it.
+2. I'm currently learning software engineering and other computer science subjects to leverage my skills in this area.
+3. I believe I can improve the value of my time at university by doing more self-study and leverage opportunities in singapore.
+
