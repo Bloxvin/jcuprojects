@@ -1,0 +1,35 @@
+Quick Questions
+1. Ctrl + L
+2. conditional loops & count-controlled loops ( definite [for] loops and indefinite [while] loops )
+3. sentinel marks the end of a sequence
+4. it used camelCase style, nothing is wrong with it
+5. Augmented assignment operators are -=, +=, *=, /=, %=
+
+Loop Outputs
+a)
+
+1. 0 1 2 3 4 5
+2. 33 34 35 36 37 38
+3. 17 16 15 14 13 12
+4. 1 0 1 0 1 0 1 0 1 0
+5. 100>64>36>16>4>
+
+Range Values
+b)
+1. range(0,6)
+2. range(1,14,4)
+3. range(3,0,-1)
+4. range(7,-6,-3)
+
+Patterns
+1. while
+2. for
+3. for
+4. for
+5. for
+
+Logic Exercise
+
+2 marbles
+
+

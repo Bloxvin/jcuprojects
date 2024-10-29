@@ -1,0 +1,29 @@
+Quick Questions
+==========
+
+1. !=
+2. <=
+3. True
+4. True
+5. False
+6. True
+
+Patterns
+==========
+1. if, elif no else
+2. if, no else
+3. if, if, if...
+4. if, elif, else
+5. if, else
+6. if, else
+7. if, elif, else
+
+Logic Exercise
+==========
+Bill is the youngest and Alice is the oldest.
+
+Reflection
+===============
+1. Write in a correct order
+2. I need to write better clean code
+3. Start working on side projects integrated with other modules such as internet fundamentals

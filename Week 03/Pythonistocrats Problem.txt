@@ -1,0 +1,60 @@
+You need to determine if a user can join our secret society, Pythonistocrats. To qualify,a user must be 18+ years of age and have made at least as many mistakes as their age. Qualifying users should be told, "Welcome :)", but those who don't qualify should be told, "Denied :(".
+
+
+Pseudocode 
+============
+get age
+get mistakes
+
+if mistakes >= age
+	print Welcome :)
+else
+	print Denied :(
+
+
+age = int(input("Age: ")
+mistakes = int(input("Mistakes: ")
+
+if mistakes >= age:
+	print("Welcome :\)")
+else
+	print("Denied :\(")
+
+
+Write Python code for this simple menu-style problem
+
+Ask the user fofr their age and a choice, then display result
+a) multiply age by 2
+b) add 10 to age
+c) halve age
+anything else, print no
+
+
+Pseudocode 
+
+get age
+get choice
+
+if choice == 1:
+	print age*2
+else if choice == 2:
+	print age+10
+else if choice == 3:
+	print age/2
+else
+	print "no"
+
+
+age = int(input("Age: "))
+choice = int(input("Choose one of these \n\tmultiply age by 2\n\tadd 10 to age\n\thalve age\n\nChoice: ")
+
+if choice == "a":
+	print age*2
+elif choice == "b":
+	print age+10
+elif choice == "c":
+	print age/2
+else
+	print("NO")
+
+
